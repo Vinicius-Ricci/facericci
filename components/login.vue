@@ -125,7 +125,7 @@
                 d="M11 16l-4-4m0 0l4-4m-4 4h14m-5 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h7a3 3 0 013 3v1"
               ></path>
             </svg>
-            <p class="ml-1 text-lg">Login</p>
+            <nuxt-link to="/feed"><p class="ml-1 text-lg">Login</p></nuxt-link>
           </button>
         </form>
         <p class="text-gray-700 text-sm mt-2">
@@ -152,7 +152,7 @@
 <style>
 
 body{
-  background-color: #284b63;
+  background-color: #15202b;
 }
 
 .bg-image {

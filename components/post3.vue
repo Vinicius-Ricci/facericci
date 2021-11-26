@@ -28,16 +28,16 @@
                   cursor-pointer
                 "
                 alt="User avatar"
-                src="https://www.oficinadanet.com.br/imagens/post/38461/750xNxchamada-steve-jobs-10-anos-homenegm-apple-1.jpg.pagespeed.ic.946be8e11e.jpg"
+                src="https://images.unsplash.com/photo-1477118476589-bff2c5c4cfbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=200&q=200"
               />
             </div>
             <div class="flex flex-col mb-2 ml-4 mt-1">
-              <div class="text-gray-600 text-sm font-semibold">Steve Jobs</div>
+              <div class="text-gray-600 text-sm font-semibold">Sara Lauren</div>
               <div class="flex w-full mt-1">
                 <div
                   class="text-blue-700 font-base text-xs mr-1 cursor-pointer"
                 >
-                  Empresario
+                  UX Design
                 </div>
                 <div class="text-gray-400 font-thin text-xs">
                   • 30 seconds ago
@@ -47,22 +47,15 @@
           </div>
           <div class="border-b border-gray-100"></div>
           <div class="text-gray-400 font-medium text-sm mb-7 mt-6 mx-3 px-2">
-            <img
-              class="rounded"
-              src="https://alexandreslivnik.com.br/wp-content/uploads/2018/10/artigo-apple-steve-jobs.jpg"
-            />
+            <img class="rounded" src="https://picsum.photos/536/354" />
           </div>
           <div class="text-gray-600 font-semibold text-lg mb-2 mx-3 px-2">
-            Estudar o mercado, pensar diferente e se posicionar
+            Dummy text of the printing and typesetting industry
           </div>
           <div class="text-gray-500 font-thin text-sm mb-6 mx-3 px-2">
-            Vivemos em uma sociedade altamente conectada com grandes e diversas
-            demandas para as áreas de tecnologia e informação. Analisando o
-            mercado, nos damos de cara com infinitas possibilidades e produtos
-            mas como saber se a marca tem potencial em desenvolver o que oferta
-            para seu público? A empresa mais valiosa do mundo, a Apple carrega
-            uma história que nos demonstra estratégias e esforços contínuos para
-            permanecer e crescer no mercado.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500
           </div>
           <div class="flex justify-start mb-4 border-t border-gray-100">
             <div class="flex w-full mt-1 pt-2 pl-5">

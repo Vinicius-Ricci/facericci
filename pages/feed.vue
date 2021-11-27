@@ -7,6 +7,7 @@ export default {
 </script>
 <template>
   <div>
+    <menu-top />
     <menu-left />
     <post />
     <post2 />

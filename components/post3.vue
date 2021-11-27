@@ -7,7 +7,7 @@
         flex
         max-w-xl
         my-10
-        bg-white
+        bg-gray-400
         shadow-md
         rounded-lg
         overflow-hidden
@@ -28,36 +28,44 @@
                   cursor-pointer
                 "
                 alt="User avatar"
-                src="https://images.unsplash.com/photo-1477118476589-bff2c5c4cfbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=200&q=200"
+                src="data:image/png;base64,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"
               />
             </div>
             <div class="flex flex-col mb-2 ml-4 mt-1">
-              <div class="text-gray-600 text-sm font-semibold">Sara Lauren</div>
+              <div class="text-gray-600 text-sm font-semibold">Chess.com</div>
               <div class="flex w-full mt-1">
                 <div
                   class="text-blue-700 font-base text-xs mr-1 cursor-pointer"
                 >
-                  UX Design
+                  Xadrez
                 </div>
                 <div class="text-gray-400 font-thin text-xs">
-                  • 30 seconds ago
+                  • 1 day ago
                 </div>
               </div>
             </div>
           </div>
-          <div class="border-b border-gray-100"></div>
+          <div class="border-b border-gray-600"></div>
           <div class="text-gray-400 font-medium text-sm mb-7 mt-6 mx-3 px-2">
-            <img class="rounded" src="https://picsum.photos/536/354" />
+            <img
+              class="rounded"
+              src="https://images.chesscomfiles.com/uploads/v1/news/1015157.28fe2258.668x375o.0afd4dcbd3d8.png"
+            />
           </div>
           <div class="text-gray-600 font-semibold text-lg mb-2 mx-3 px-2">
-            Dummy text of the printing and typesetting industry
+            Campeonato Mundial da FIDE: Nepomniachtchi impressiona sob pressão e
+            empata a 1ª partida
           </div>
           <div class="text-gray-500 font-thin text-sm mb-6 mx-3 px-2">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500
+            O campeão mundial, Magnus Carlsen, e o desafiante, Ian
+            Nepomniachtchi, começaram o match do Campeonato Mundial da FIDE
+            nesta sexta-feira, em Dubai, com um empate. Nepomniachtchi tinha uma
+            ligeira vantagem na abertura, mas foi pressionado pouco depois e
+            impressionou com um jogo preciso no final. A segunda partida está
+            agendada para sábado, às 16h30 em Dubai (09:30 de Brasília, 12:30 de
+            Lisboa).
           </div>
-          <div class="flex justify-start mb-4 border-t border-gray-100">
+          <div class="flex justify-start mb-4 border-t border-gray-600">
             <div class="flex w-full mt-1 pt-2 pl-5">
               <span
                 class="
@@ -223,7 +231,7 @@
               </span>
             </div>
           </div>
-          <div class="flex w-full border-t border-gray-100">
+          <div class="flex w-full border-t border-gray-600">
             <div class="mt-3 mx-5 flex flex-row">
               <div
                 class="
@@ -238,7 +246,7 @@
                 "
               >
                 Comments:
-                <div class="ml-1 text-gray-400 font-thin text-ms">30</div>
+                <div class="ml-1 text-gray-400 font-thin text-ms">20k</div>
               </div>
               <div
                 class="
@@ -253,7 +261,7 @@
                 "
               >
                 Views:
-                <div class="ml-1 text-gray-400 font-thin text-ms">60k</div>
+                <div class="ml-1 text-gray-400 font-thin text-ms">100k</div>
               </div>
             </div>
             <div class="mt-3 mx-5 w-full flex justify-end">
@@ -270,7 +278,7 @@
                 "
               >
                 Likes:
-                <div class="ml-1 text-gray-400 font-thin text-ms">120k</div>
+                <div class="ml-1 text-gray-400 font-thin text-ms">50k</div>
               </div>
             </div>
           </div>
@@ -299,7 +307,7 @@
                 cursor-pointer
               "
               alt="User avatar"
-              src="https://images.unsplash.com/photo-1477118476589-bff2c5c4cfbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=200&q=200"
+              src="https://pbs.twimg.com/profile_images/1184313670278549504/I3wVVB_E_400x400.jpg"
             />
             <span class="absolute inset-y-0 right-0 flex items-center pr-6">
               <button

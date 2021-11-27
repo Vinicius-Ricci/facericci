@@ -7,7 +7,7 @@
         flex
         max-w-xl
         my-10
-        bg-white
+        bg-gray-400
         shadow-md
         rounded-lg
         overflow-hidden
@@ -28,36 +28,34 @@
                   cursor-pointer
                 "
                 alt="User avatar"
-                src="https://images.unsplash.com/photo-1477118476589-bff2c5c4cfbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=200&q=200"
+                src="https://baserush.com.br/wp-content/uploads/2020/12/capa-1.jpg"
               />
             </div>
             <div class="flex flex-col mb-2 ml-4 mt-1">
-              <div class="text-gray-600 text-sm font-semibold">Sara Lauren</div>
+              <div class="text-gray-600 text-sm font-semibold">Gabriel Toledo "FalleN"</div>
               <div class="flex w-full mt-1">
                 <div
                   class="text-blue-700 font-base text-xs mr-1 cursor-pointer"
                 >
-                  UX Design
+                  Jogador Profissional de CSGO
                 </div>
                 <div class="text-gray-400 font-thin text-xs">
-                  • 30 seconds ago
+                  • 1 day ago
                 </div>
               </div>
             </div>
           </div>
-          <div class="border-b border-gray-100"></div>
+          <div class="border-b border-gray-600"></div>
           <div class="text-gray-400 font-medium text-sm mb-7 mt-6 mx-3 px-2">
-            <img class="rounded" src="https://picsum.photos/536/354" />
+            <img class="rounded" src="https://theclutch.com.br/wp-content/uploads/2021/11/fallen-blast-trofeu.jpeg" />
           </div>
           <div class="text-gray-600 font-semibold text-lg mb-2 mx-3 px-2">
-            Dummy text of the printing and typesetting industry
+            Se encerra nossa jornada na Blast Premier Fall Final 2021
           </div>
           <div class="text-gray-500 font-thin text-sm mb-6 mx-3 px-2">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500
+            Muito obrigado a quem torceu, mas infelizmente nao deu para nós. GGWP @heroicgg
           </div>
-          <div class="flex justify-start mb-4 border-t border-gray-100">
+          <div class="flex justify-start mb-4 border-t border-gray-600">
             <div class="flex w-full mt-1 pt-2 pl-5">
               <span
                 class="
@@ -223,7 +221,7 @@
               </span>
             </div>
           </div>
-          <div class="flex w-full border-t border-gray-100">
+          <div class="flex w-full border-t border-gray-600">
             <div class="mt-3 mx-5 flex flex-row">
               <div
                 class="
@@ -238,7 +236,7 @@
                 "
               >
                 Comments:
-                <div class="ml-1 text-gray-400 font-thin text-ms">30</div>
+                <div class="ml-1 text-gray-400 font-thin text-ms">3k</div>
               </div>
               <div
                 class="
@@ -253,7 +251,7 @@
                 "
               >
                 Views:
-                <div class="ml-1 text-gray-400 font-thin text-ms">60k</div>
+                <div class="ml-1 text-gray-400 font-thin text-ms">600k</div>
               </div>
             </div>
             <div class="mt-3 mx-5 w-full flex justify-end">
@@ -299,7 +297,7 @@
                 cursor-pointer
               "
               alt="User avatar"
-              src="https://images.unsplash.com/photo-1477118476589-bff2c5c4cfbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=200&q=200"
+              src="https://pbs.twimg.com/profile_images/1184313670278549504/I3wVVB_E_400x400.jpg"
             />
             <span class="absolute inset-y-0 right-0 flex items-center pr-6">
               <button

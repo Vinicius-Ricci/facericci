@@ -7,7 +7,7 @@
         flex
         max-w-xl
         my-10
-        bg-white
+        bg-gray-400
         shadow-md
         rounded-lg
         overflow-hidden
@@ -45,7 +45,7 @@
               </div>
             </div>
           </div>
-          <div class="border-b border-gray-100"></div>
+          <div class="border-b border-gray-600"></div>
           <div class="text-gray-400 font-medium text-sm mb-7 mt-6 mx-3 px-2">
             <img
               class="rounded"
@@ -64,7 +64,7 @@
             uma história que nos demonstra estratégias e esforços contínuos para
             permanecer e crescer no mercado.
           </div>
-          <div class="flex justify-start mb-4 border-t border-gray-100">
+          <div class="flex justify-start mb-4 border-t border-gray-600">
             <div class="flex w-full mt-1 pt-2 pl-5">
               <span
                 class="
@@ -230,7 +230,7 @@
               </span>
             </div>
           </div>
-          <div class="flex w-full border-t border-gray-100">
+          <div class="flex w-full border-t border-gray-600">
             <div class="mt-3 mx-5 flex flex-row">
               <div
                 class="
@@ -245,7 +245,7 @@
                 "
               >
                 Comments:
-                <div class="ml-1 text-gray-400 font-thin text-ms">30</div>
+                <div class="ml-1 text-gray-400 font-thin text-ms">500k</div>
               </div>
               <div
                 class="
@@ -260,7 +260,7 @@
                 "
               >
                 Views:
-                <div class="ml-1 text-gray-400 font-thin text-ms">60k</div>
+                <div class="ml-1 text-gray-400 font-thin text-ms">1M</div>
               </div>
             </div>
             <div class="mt-3 mx-5 w-full flex justify-end">
@@ -277,7 +277,7 @@
                 "
               >
                 Likes:
-                <div class="ml-1 text-gray-400 font-thin text-ms">120k</div>
+                <div class="ml-1 text-gray-400 font-thin text-ms">900k</div>
               </div>
             </div>
           </div>
@@ -306,7 +306,7 @@
                 cursor-pointer
               "
               alt="User avatar"
-              src="https://images.unsplash.com/photo-1477118476589-bff2c5c4cfbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=200&q=200"
+              src="https://pbs.twimg.com/profile_images/1184313670278549504/I3wVVB_E_400x400.jpg"
             />
             <span class="absolute inset-y-0 right-0 flex items-center pr-6">
               <button

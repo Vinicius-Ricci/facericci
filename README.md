@@ -1,5 +1,9 @@
 # facericci
 
+## How to use ?
+
+Enter any email and any password to login.
+
 ## Build Setup
 
 ```bash
